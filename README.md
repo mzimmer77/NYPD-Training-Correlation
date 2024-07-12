@@ -1,1 +1,3 @@
 # Data-Scraper
+
+For this project, I tried to find a correlation between different training of NYPD officers and substansiated incidents. I used data scraped from the 50-a website in order to find a correlation. Dr. Terence Johnson at the UVA school for Data Science was very helpful and supplyied me with not only ideas but a groundwork of knowledge to complete this task. I used tax ID numbers of officers in order to have a common variable between data and then combined the 2 data sets -officer_pages and officer_training into one set which showcased the number of complains, allegations, and substantiated claims agaisnt an officer to see what training actually proved to be most effective at stopping police brutality.
